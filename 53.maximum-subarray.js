@@ -16,4 +16,4 @@ let maxSubArray = function(nums) {
 Explanation: 
 1. Loop through array with for loop.
 2. The Math.max() function returns the largest of zero or more numbers. Syntax: Math.max([value1[, value2[, ...]]])
-3. All results from the loop sequence are put into another Math.max function where the largest value is returned.
+3. All results from the loop sequence are put into another Math.max function where the largest value is returned. Syntax: myFunction(...iterableObj);
